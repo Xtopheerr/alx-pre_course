@@ -1,1 +1,1 @@
-Updating and commiting on my github interface fot the first time
+Updating and commiting on my github interface for the first time
